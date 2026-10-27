@@ -1,4 +1,5 @@
 # Logic Analyzer
+<img width="539" height="592" alt="image" src="https://github.com/user-attachments/assets/bace24c3-5209-468e-9407-9bfd8c95b0b4" />
 
 Навчальний проєкт для ESP32-S3 на Arduino framework і PlatformIO. Прошивка рахує натискання кнопки на GPIO 16 за допомогою переривання та виводить поточний лічильник у серійний монітор.
 
